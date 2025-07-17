@@ -19,7 +19,9 @@ Join our community to build the future: [MANIFESTO](MANIFESTO.md).
 - **Recovery**: Rebuild lost `.rlx` files with private keys.
 - **Security**: 256-bit random entropy seed, file locking, 0600 permissions, input sanitization.
 - **Tests**: GoogleTest suite covering all functions and edge cases.
-##Relic Dev Plan in : https://github.com/users/jackarnoldan/projects/1/views/1
+
+  Relic Dev Plan in : https://github.com/users/jackarnoldan/projects/1/views/1
+  
 ## Getting Started
 ### Prerequisites
 - **OpenSSL**: `sudo apt-get install libssl-dev` (Linux), `brew install openssl` (Mac), or [slproweb.com](https://slproweb.com/products/Win32OpenSSL.html) (Windows).
