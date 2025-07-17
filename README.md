@@ -1,3 +1,4 @@
+https://github.com/users/jackarnoldan/projects/1/views/1
 # Relic: Digital Money Without Blockchain
 
 Relics is digital money reborn: 20 million `.rlx` files, each a unique, cryptographically secure unit of value. No blockchain, no miners, no bloat—just raw, unstoppable money that works offline on a USB stick, QR code, or even a toaster. Built in C++ with `libsecp256k1`, Relics is faster than Solana, tougher than Bitcoin, and ready to redefine value .
