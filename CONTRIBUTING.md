@@ -1,5 +1,3 @@
-# CONTRIBUTING.md
-
 # Contributing to Relics
 
 Welcome to Relics, the blockchain-killer digital money system! We’re building a lean, secure, offline-first currency, and we need *you*—C++ coders, security nerds, UI wizards, and crypto rebels—to make it legendary. Whether you’re optimizing crypto, adding post-quantum signatures, or designing the Relic Vault app, your contributions will shape the future of money.
